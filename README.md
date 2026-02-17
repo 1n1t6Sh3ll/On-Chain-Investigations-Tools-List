@@ -91,6 +91,7 @@
 - [graphsense.info](https://graphsense.info)
 - [bitfury.com](https://bitfury.com)
 - [walletLabels.xyz ](https://walletLabels.xyz) & [TLDR](https://twitter.com/aiden0x4/status/1641893726686531601)
+- [bluepages.fyi](https://bluepages.fyi)
 - [shard.ru](https://shard.ru)
 - [analybits](https://analybits.xyz)
 - [transpose.io](https://www.transpose.io), example: [Link](https://twitter.com/BeckerrJon/status/1645836538360496135?s=20) & [Link2](https://app.transpose.io/atlas)
