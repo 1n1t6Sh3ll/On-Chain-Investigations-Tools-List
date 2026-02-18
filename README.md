@@ -100,6 +100,8 @@
 - [parsec.finance](https://parsec.finance)
 - [jsoncrack.com](https://jsoncrack.com)
 - [sentio.xyz](https://app.sentio.xyz)
+- [chartscout.io](https://chartscout.io/)
+
 
 **Visualization:**
 
